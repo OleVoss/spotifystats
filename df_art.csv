@@ -1,0 +1,823 @@
+,artist_name,plays,songs,var,std
+0,Alligatoah,1883,50,365.45346938775515,19.11683732702026
+1,Bukahara,1318,38,976.5462304409672,31.24973968597126
+2,Trailerpark,1307,31,263.60645161290324,16.23596167810528
+3,Joep Beving,1054,39,401.9730094466937,20.04926456124248
+4,YUNGBLUD,1000,37,822.0270270270271,28.671013707698357
+5,Trettmann,968,17,1672.1838235294117,40.892344314424086
+6,Von Wegen Lisbeth,861,26,417.06615384615384,20.422197576317632
+7,Panic! At The Disco,807,24,315.20108695652175,17.753903428725803
+8,Loyle Carner,698,7,2321.904761904762,48.186146991690066
+9,grandson,696,19,974.5789473684213,31.218247025872884
+10,RAF Camora,610,10,2480.4444444444443,49.804060521652694
+11,Bonez MC,562,13,846.8589743589743,29.100841471664943
+12,257ers,541,32,121.5070564516129,11.02302392502225
+13,Sticky Fingers,489,13,262.7564102564102,16.209762806913933
+14,Timi Hendrix,447,14,114.84065934065936,10.716373422975673
+15,Gzuz,431,15,464.35238095238094,21.548837113690865
+16,187 Strassenbande,417,16,359.12916666666666,18.95070359291883
+17,Woodkid,394,14,407.3626373626373,20.183226634080025
+18,AnnenMayKantereit,390,20,212.47368421052633,14.576477085034172
+19,Twenty One Pilots,345,9,979.75,31.300958451779078
+20,Ed Sheeran,336,6,1255.6,35.43444651747787
+21,Leoniden,304,15,472.3523809523809,21.73366929334255
+22,Denny Wright & The Hot Club Of London,273,17,3.3088235294117645,1.8190171877724972
+23,All Time Low,268,5,2093.3,45.75259555478793
+24,DON BROCO,254,2,10368.0,101.82337649086284
+25,Bausa,231,9,503.99999999999994,22.449944320643645
+26,Schmyt,227,7,361.61904761904765,19.016283748909714
+27,Mike Shinoda,206,3,289.33333333333337,17.009801096230767
+28,Nymano,203,4,2264.9166666666665,47.591140632124656
+29,Matt Simons,198,2,1352.0,36.76955262170047
+30,TheFatRat,194,3,2184.333333333333,46.736851983561465
+31,Zuna,194,4,87.0,9.327379053088816
+32,Passenger,191,5,5365.7,73.25093856053996
+33,Kygo,188,2,5832.0,76.36753236814714
+34,Patent Pending,178,1,,
+35,Capital Bra,175,8,474.125,21.774411587916674
+36,Cafe Music BGM channel,172,10,275.73333333333335,16.605220062779456
+37,Snoop Dogg,168,2,13778.0,117.37972567696688
+38,Death From Above 1979,165,1,,
+39,Saib,158,2,200.0,14.142135623730951
+40,Mighty Oaks,156,5,2535.7,50.3557345294456
+41,Apache 207,156,7,13.238095238095239,3.6384193323605842
+42,Fatoni,149,8,81.69642857142857,9.038607667745545
+43,Confetti,143,2,9660.5,98.2878425849301
+44,Millencolin,142,2,6962.0,83.43860018001261
+45,Lukas Graham,139,3,1902.3333333333333,43.61574639202376
+46,Grace Mitchell,136,1,,
+47,A$AP Rocky,130,2,5202.0,72.12489168102785
+48,James Arthur,130,2,1682.0,41.012193308819754
+49,The Defibulators,130,7,139.2857142857143,11.801936887041649
+50,Vulfpeck,125,5,800.5,28.293108701590217
+51,Flo Rida,123,4,286.9166666666667,16.938614661968867
+52,Train,118,2,32.0,5.656854249492381
+53,01099,118,3,1724.3333333333333,41.525092815469215
+54,Imagine Dragons,117,5,684.8000000000001,26.168683574073803
+55,Luciano,117,3,1011.0,31.796226191169293
+56,Aim Vision,116,4,1220.6666666666667,34.93804039534368
+57,Flitz&Suppe,115,2,2664.5,51.61879502661797
+58,Faber,115,6,76.56666666666666,8.750238091998792
+59,Hybrid Minds,111,1,,
+60,Avicii,111,4,1389.5833333333333,37.27711541057507
+61,Triathalon,111,1,,
+62,Grinch Hill,111,5,21.7,4.658325879540846
+63,Rainer + Grimm,110,1,,
+64,Trivium,110,1,,
+65,Mitch James,109,1,,
+66,Macklemore & Ryan Lewis,108,2,1352.0,36.76955262170047
+67,Bastille,108,2,50.0,7.0710678118654755
+68,Milky Chance,108,3,1993.0,44.64302857109943
+69,Adam Jensen,108,1,,
+70,Of Monsters and Men,108,1,,
+71,Edward Sharpe & The Magnetic Zeros,107,1,,
+72,Joey Pecoraro,106,3,1322.3333333333333,36.363901514184825
+73,Hanybal,106,2,882.0,29.698484809834994
+74,Bushido,105,3,1084.0,32.92415526630866
+75,FIL BO RIVA,105,3,1728.0,41.569219381653056
+76,Galantis,104,1,,
+77,alt-J,104,1,,
+78,L'Indécis,103,3,558.3333333333333,23.62907813126304
+79,Waving The Guns,102,5,262.3,16.195678435928517
+80,The Pale White,101,1,,
+81,Machine Gun Kelly,101,4,946.9166666666666,30.772011092333024
+82,J. Roosevelt,101,1,,
+83,Billy Joel,100,1,,
+84,The Chainsmokers,99,3,1879.0,43.347433603386484
+85,Linkin Park,98,3,1689.3333333333333,41.10150037812894
+86,Limp Bizkit,98,3,2822.3333333333335,53.12563725107995
+87,Calvin Harris,97,1,,
+88,Animal House,97,2,4512.5,67.17514421272202
+89,Otto Knows,96,1,,
+90,Charlie Puth,95,4,241.58333333333334,15.542951242712348
+91,Fujitsu,95,2,3444.5,58.68986283848344
+92,Mono:Massive,94,1,,
+93,Stan Forebee,94,1,,
+94,The Unlikely Candidates,94,1,,
+95,VANT,94,1,,
+96,Capo,94,3,680.3333333333333,26.08320021265284
+97,ArrDee,93,4,370.9166666666667,19.259196937221102
+98,Labrinth,90,3,273.0,16.522711641858304
+99,Nimo,90,3,976.0,31.240998703626616
+100,Divide The Day,89,2,3612.5,60.10407640085654
+101,Ben Howard,88,1,,
+102,Clio,88,5,174.29999999999998,13.202272531651511
+103,Olexesh,86,5,257.2,16.037456157383563
+104,Pandrezz,86,1,,
+105,Bruno Major,86,3,610.3333333333333,24.70492528491704
+106,Shirin David,85,4,368.9166666666667,19.207203509794617
+107,youareslowlykillingme,85,2,264.5,16.263455967290593
+108,Hozier,84,2,338.0,18.384776310850235
+109,Lyall Moloney,84,2,288.0,16.97056274847714
+110,Fantan Mojah,84,1,,
+111,Michael Bublé,83,4,613.5833333333334,24.770614310778274
+112,Olivia Rodrigo,83,2,1404.5,37.476659402887016
+113,Alle Farben,82,2,3200.0,56.568542494923804
+114,With Confidence,82,1,,
+115,Brandyn Burnette,81,1,,
+116,Niklas Paschburg,81,1,,
+117,Kupla,81,5,575.1999999999999,23.983327542274026
+118,Helloween,81,2,12.5,3.5355339059327378
+119,OneRepublic,80,2,3042.0,55.154328932550705
+120,Provinz,79,5,141.2,11.882760622010357
+121,Mike Posner,79,1,,
+122,Ruck P,79,1,,
+123,Lorde,78,1,,
+124,ENNIO,78,4,164.33333333333334,12.819256348686274
+125,Robert DeLong,77,1,,
+126,Taio Cruz,76,4,510.0,22.58317958127243
+127,Swiss,76,2,338.0,18.384776310850235
+128,DREAMERS,75,1,,
+129,JORIS,75,3,588.0,24.24871130596428
+130,Majestica,74,1,,
+131,Mazde,74,1,,
+132,RŮDE,74,1,,
+133,girl in red,73,4,8.25,2.8722813232690143
+134,Das Lumpenpack,73,2,84.5,9.192388155425117
+135,Joywave,73,1,,
+136,Käptn Peng,72,4,60.666666666666664,7.788880963698615
+137,Giant Rooks,72,4,246.0,15.684387141358123
+138,MAGIC!,71,1,,
+139,The Deli,71,2,1740.5,41.71930009000631
+140,Gerard Way,71,1,,
+141,Beauty School Dropout,71,1,,
+142,jhfly,70,2,450.0,21.213203435596427
+143,Sadi,70,2,2.0,1.4142135623730951
+144,BABYJOY,70,2,800.0,28.284271247461902
+145,FINNEAS,69,2,840.5,28.991378028648448
+146,Kodaline,69,1,,
+147,biosphere,68,2,2048.0,45.254833995939045
+148,Danger Dan,67,2,840.5,28.991378028648448
+149,CONNY,67,3,66.33333333333333,8.144527815247077
+150,Descendents,67,1,,
+151,KYTES,67,5,68.80000000000001,8.29457654133109
+152,Alli Neumann,65,3,206.33333333333331,14.364307617610162
+153,Ben E. King,65,1,,
+154,Money Boy,64,2,2.0,1.4142135623730951
+155,Dexys Midnight Runners,64,1,,
+156,Maroon 5,63,3,76.0,8.717797887081348
+157,Gary Washington,63,4,10.25,3.2015621187164243
+158,LISTENBEE,63,1,,
+159,Bruno Mars,63,2,84.5,9.192388155425117
+160,Johann Sebastian Bach,63,3,21.0,4.58257569495584
+161,Tom Odell,63,2,24.5,4.949747468305833
+162,Ours Samplus,62,2,1800.0,42.42640687119285
+163,cleopatrick,62,1,,
+164,Idealism,62,3,280.3333333333333,16.743157806499145
+165,M83,62,1,,
+166,Antonio Vivaldi,62,3,142.33333333333334,11.930353445448855
+167,Ludovico Einaudi,62,2,288.0,16.97056274847714
+168,Ninjoi.,61,1,,
+169,Hot Chelle Rae,61,1,,
+170,Olly Murs,60,1,,
+171,Electric Light Orchestra,60,1,,
+172,Imaginary Ambition,60,1,,
+173,mommy,59,2,312.5,17.67766952966369
+174,Sarah Connor,59,2,180.5,13.435028842544403
+175,Roberto Cacciapaglia,59,1,,
+176,Ray Charles,59,1,,
+177,Carlo5,58,1,,
+178,ScrubMakesMusic,57,4,4.916666666666667,2.217355782608345
+179,Shawn Mendes,57,2,220.5,14.849242404917497
+180,CRO,57,4,366.9166666666667,19.155068954891984
+181,Joy Crookes,57,2,112.5,10.606601717798213
+182,Gym Class Heroes,56,1,,
+183,My Chemical Romance,56,2,288.0,16.97056274847714
+184,Ufo361,56,2,578.0,24.041630560342615
+185,blink-182,56,2,338.0,18.384776310850235
+186,Streetlight Manifesto,55,1,,
+187,New Politics,55,1,,
+188,Mark Forster,54,2,18.0,4.242640687119285
+189,Sugarcult,54,1,,
+190,Britt Nicole,54,1,,
+191,Nuver,54,1,,
+192,Nina Chuba,53,2,40.5,6.363961030678928
+193,Sido,53,4,112.91666666666667,10.626225419530053
+194,Cardi B,52,1,,
+195,Mac Miller,52,3,156.33333333333331,12.503332889007368
+196,Helen Jane Long,51,1,,
+197,Gavin James,51,1,,
+198,Boysindahood,51,3,43.0,6.557438524302
+199,Pashanim,51,2,40.5,6.363961030678928
+200,Palaye Royale,51,2,840.5,28.991378028648448
+201,Iyaz,51,1,,
+202,Israel Kamakawiwo'ole,50,2,392.0,19.79898987322333
+203,EFF,50,1,,
+204,Travie McCoy,50,1,,
+205,Bowling For Soup,49,1,,
+206,Sigrid,49,1,,
+207,Stu Larsen,47,1,,
+208,Lena,47,1,,
+209,KC Rebell,47,2,312.5,17.67766952966369
+210,Call Me Karizma,47,2,1012.5,31.81980515339464
+211,Marteria,47,2,24.5,4.949747468305833
+212,AKNE KID JOE,46,2,968.0,31.11269837220809
+213,JPD,46,1,,
+214,Lost Frequencies,46,1,,
+215,KitschKrieg,45,2,60.5,7.7781745930520225
+216,Owl City,45,1,,
+217,Young Rising Sons,45,1,,
+218,Robin Schulz,45,2,480.5,21.920310216782973
+219,Bryce Fox,44,1,,
+220,Jonas Blue,44,2,200.0,14.142135623730951
+221,Sleepy Fish,44,1,,
+222,Apollo Sissi,44,3,21.333333333333332,4.618802153517006
+223,Finny,44,1,,
+224,Barns Courtney,44,1,,
+225,CeeLo Green,44,1,,
+226,Die Ärzte,43,1,,
+227,Arrested Youth,43,1,,
+228,The Script,42,2,98.0,9.899494936611665
+229,fliggsy,42,1,,
+230,The Knights,41,1,,
+231,Ten Fé,41,1,,
+232,Amy Winehouse,41,2,40.5,6.363961030678928
+233,Justin Timberlake,41,1,,
+234,Yann Tiersen,41,1,,
+235,Alton,40,1,,
+236,Pitbull,40,1,,
+237,Ray Goren,40,1,,
+238,The Tallest Man On Earth,40,1,,
+239,Alan Walker,39,2,420.5,20.506096654409877
+240,Alec Benjamin,39,1,,
+241,Jason Mraz,39,1,,
+242,Mayberg,39,2,40.5,6.363961030678928
+243,Queen,38,1,,
+244,Miami Yacine,38,2,2.0,1.4142135623730951
+245,Wilhelmine,38,1,,
+246,Masterplan,38,1,,
+247,Wise Guys,38,6,35.06666666666668,5.921711464320655
+248,Namika,37,1,,
+249,Milow,37,1,,
+250,Aliotta Haynes Jeremiah,37,1,,
+251,G-Eazy,37,1,,
+252,I DONT KNOW HOW BUT THEY FOUND ME,37,1,,
+253,Paula Hartmann,36,1,,
+254,Querox,36,1,,
+255,Derik Fein,36,1,,
+256,TJ_beastboy,36,2,128.0,11.313708498984761
+257,Moop Mama,36,1,,
+258,The Wanted,36,1,,
+259,SDP,36,3,121.0,11.0
+260,Red Hot Chili Peppers,36,3,301.0,17.349351572897472
+261,baaskaT,35,1,,
+262,Marsimoto,35,2,544.5,23.33452377915607
+263,VoicePlay,35,1,,
+264,Authority Zero,34,1,,
+265,Sunset & Highland,34,1,,
+266,Dardan,34,2,98.0,9.899494936611665
+267,Anarbor,33,1,,
+268,Ween,33,1,,
+269,Julia Michaels,33,1,,
+270,Daft Punk,33,1,,
+271,Montreal,33,1,,
+272,Esther Graf,33,1,,
+273,Rixton,33,1,,
+274,TimmyT,33,2,40.5,6.363961030678928
+275,Ethan Surman,33,1,,
+276,Seeed,33,2,84.5,9.192388155425117
+277,Mar Malade,32,1,,
+278,Sudden,32,1,,
+279,Nic D,32,1,,
+280,Janieck,32,1,,
+281,zebrahead,31,2,60.5,7.7781745930520225
+282,David Guetta,31,1,,
+283,Luis Fonsi,31,1,,
+284,L'aupaire,31,1,,
+285,Black Eyed Peas,31,1,,
+286,Nightcore,31,2,420.5,20.506096654409877
+287,Format:B,31,1,,
+288,JAY-Z,30,1,,
+289,POORSTACY,30,1,,
+290,Pilz,30,2,392.0,19.79898987322333
+291,Bring Me The Horizon,29,2,12.5,3.5355339059327378
+292,Diverseddie,29,1,,
+293,Lil Peep,29,2,4.5,2.1213203435596424
+294,Pohlmann.,29,1,,
+295,Ólafur Arnalds,29,1,,
+296,Sum 41,29,2,364.5,19.091883092036785
+297,RIN,28,2,32.0,5.656854249492381
+298,Jakey,28,2,338.0,18.384776310850235
+299,Reuben Pearl,28,1,,
+300,YRRRE,28,1,,
+301,Juju,28,2,18.0,4.242640687119285
+302,Meghan Trainor,28,1,,
+303,Shaban,28,2,0.0,0.0
+304,Cody Fry,28,2,338.0,18.384776310850235
+305,Post Malone,28,2,8.0,2.8284271247461903
+306,WILLOW,27,1,,
+307,ok.danke.tschüss,27,1,,
+308,Usher,27,1,,
+309,Rascal Flatts,27,1,,
+310,Kungs,27,1,,
+311,Samra,27,1,,
+312,Amos Milburn,27,1,,
+313,Frédéric Chopin,26,2,18.0,4.242640687119285
+314,KUMMER,26,2,18.0,4.242640687119285
+315,il Civetto,26,1,,
+316,upper class,26,1,,
+317,Maxwell,26,2,18.0,4.242640687119285
+318,Kontra K,26,2,8.0,2.8284271247461903
+319,Doja Cat,25,2,12.5,3.5355339059327378
+320,Rev Theory,25,1,,
+321,"quickly, quickly",25,1,,
+322,Street Dogs,25,1,,
+323,Mikassa,25,1,,
+324,Monolink,25,1,,
+325,Betical,25,1,,
+326,Eminem,25,1,,
+327,Carly Rae Jepsen,25,1,,
+328,Lambert,25,1,,
+329,Aether,24,1,,
+330,TAHA,24,1,,
+331,Enrique Iglesias,24,2,162.0,12.727922061357855
+332,Savvy,24,1,,
+333,Sinan-G,24,1,,
+334,Gloria Gaynor,24,1,,
+335,Beginner,24,1,,
+336,Mr. Cool Guy Producer Guy,24,1,,
+337,Sugi.wa,23,2,24.5,4.949747468305833
+338,Thomas Newman,23,1,,
+339,will.i.am,23,1,,
+340,League of Legends,23,2,0.5,0.7071067811865476
+341,Edo Lee,23,1,,
+342,Paramore,23,1,,
+343,Justus Bennetts,23,1,,
+344,Knowmadic,23,2,4.5,2.1213203435596424
+345,Kurdo,23,2,220.5,14.849242404917497
+346,Cloudchord,23,2,4.5,2.1213203435596424
+347,Gyvus,22,2,50.0,7.0710678118654755
+348,LIL DUSTY G,22,1,,
+349,Rikas,22,1,,
+350,Luke Winslow-King,22,1,,
+351,Mumford & Sons,22,1,,
+352,Mouyé,22,1,,
+353,Fler,22,1,,
+354,LILLE,22,1,,
+355,Evang,21,1,,
+356,Jaya The Cat,21,1,,
+357,Lady Gaga,21,2,144.5,12.020815280171307
+358,Annie Chops,21,1,,
+359,Heinz Rudolf Kunze,21,1,,
+360,Caleb Belkin,21,3,76.0,8.717797887081348
+361,j'san,20,1,,
+362,Azet,20,2,18.0,4.242640687119285
+363,Dazzle,20,1,,
+364,Tujamo,20,1,,
+365,Daði Freyr,20,1,,
+366,Clean Bandit,20,1,,
+367,Twilight Force,20,1,,
+368,Jinsang,20,2,0.0,0.0
+369,Kräuterbeet,20,2,0.0,0.0
+370,Team Avantgarde,20,1,,
+371,Frank Sinatra,20,3,24.333333333333332,4.932882862316247
+372,RudeManners,20,1,,
+373,James Bay,20,2,8.0,2.8284271247461903
+374,Avril Lavigne,19,1,,
+375,MIKA,19,1,,
+376,Madeline Juno,19,1,,
+377,Juice WRLD,19,1,,
+378,SYML,19,1,,
+379,Goodg,19,1,,
+380,Logan Dias,19,1,,
+381,dieserBuddha,19,1,,
+382,Eli,19,1,,
+383,Jonas Monar,19,1,,
+384,Tones And I,18,1,,
+385,Ferdinand fka Left Boy,18,1,,
+386,Social House,18,1,,
+387,Shindy,18,1,,
+388,SXTN,18,1,,
+389,Russ,18,1,,
+390,Cage The Elephant,18,1,,
+391,Lennon Stella,18,1,,
+392,Travis Scott,17,1,,
+393,BHZ,17,2,112.5,10.606601717798213
+394,Carlos Cipa,17,1,,
+395,Nix Northwest,17,1,,
+396,Christin Nichols,17,1,,
+397,Iggy,17,1,,
+398,Skipper,17,1,,
+399,Teddy Teclebrhan,17,1,,
+400,Paul Anka,17,2,112.5,10.606601717798213
+401,Jess Glynne,17,1,,
+402,Claire Rosinkranz,17,1,,
+403,Jason Derulo,17,2,84.5,9.192388155425117
+404,A Tribe Called Quest,16,1,,
+405,Asaf Avidan,16,1,,
+406,futurebae,16,1,,
+407,Farjus,16,1,,
+408,Stand Atlantic,16,1,,
+409,Philanthrope,16,2,18.0,4.242640687119285
+410,Johnny Diggson,16,1,,
+411,Fall Out Boy,16,1,,
+412,Eva Cassidy,16,2,98.0,9.899494936611665
+413,SiR,15,1,,
+414,Tom Thaler & Basil,15,1,,
+415,SLF,15,1,,
+416,Banda Magda,15,1,,
+417,OTPendia,15,1,,
+418,50 Cent,15,1,,
+419,Vance Joy,15,1,,
+420,Tame Impala,15,1,,
+421,Kraftklub,15,1,,
+422,SHINSKY x DIMA,15,1,,
+423,KASIMIR1441,15,1,,
+424,Hippie Sabotage,15,1,,
+425,Glass Animals,14,1,,
+426,The Anaconda Vampire Bats,14,1,,
+427,Projekt,14,1,,
+428,Udo Lindenberg & Das Panik-Orchester,14,1,,
+429,OK KID,14,1,,
+430,KAFFKIEZ,14,2,72.0,8.48528137423857
+431,Ethan Bortnick,14,1,,
+432,Lous and The Yakuza,14,1,,
+433,Fynn Kliemann,14,2,50.0,7.0710678118654755
+434,Elliot Moss,14,1,,
+435,Shy Cope,14,1,,
+436,AK AUSSERKONTROLLE,14,1,,
+437,Die Prinzen,14,4,25.0,5.0
+438,Mura Masa,14,1,,
+439,Calyx & TeeBee,14,1,,
+440,Ryan Mack,14,1,,
+441,The Decline,14,1,,
+442,Udo Jürgens,14,1,,
+443,Rojas,14,1,,
+444,Billy Ocean,14,1,,
+445,Mefjus,14,1,,
+446,Quvenzhané Wallis,14,1,,
+447,Antje Schomaker,14,1,,
+448,The Holy Santa Barbara,14,1,,
+449,Summer Cem,14,1,,
+450,KANA-BOON,14,1,,
+451,Kollegah,13,2,60.5,7.7781745930520225
+452,Omah Lay,13,1,,
+453,Sterling Hudson,13,1,,
+454,Felix Jaehn,13,1,,
+455,Wanda,13,1,,
+456,The Offspring,13,1,,
+457,Benjie,13,1,,
+458,Bombs Away,13,1,,
+459,Laruzo,13,1,,
+460,chief.,13,1,,
+461,Wun Two,13,1,,
+462,Elton John,13,1,,
+463,Guacáyo,13,1,,
+464,Big Shaq,13,1,,
+465,Sportfreunde Stiller,13,1,,
+466,Marshmello,13,1,,
+467,Peter Schilling,13,1,,
+468,Thomas Bergersen,12,2,50.0,7.0710678118654755
+469,A*S*Y*S,12,1,,
+470,Fruchtmax,12,1,,
+471,Simple Creatures,12,1,,
+472,Ghost Rider,12,1,,
+473,Billy Talent,12,1,,
+474,Crystal F,12,1,,
+475,Freak Kill,12,1,,
+476,easy life,12,1,,
+477,Beyoncé,12,2,50.0,7.0710678118654755
+478,Ramones,12,1,,
+479,DJ Gollum,12,1,,
+480,wavvyboi,12,1,,
+481,Barnes Blvd.,12,1,,
+482,Green Day,12,1,,
+483,Veysel,12,1,,
+484,morten,12,1,,
+485,Saweetie,12,1,,
+486,Justin Hawkes,12,1,,
+487,EARGASM GOD,12,1,,
+488,Saiya Tiaw,11,1,,
+489,Franz Schubert,11,1,,
+490,SWEED,11,1,,
+491,Seneca B,11,2,24.5,4.949747468305833
+492,Zayion McCall,11,1,,
+493,Juicy Süß,11,1,,
+494,The Flatliners,11,1,,
+495,Joe Corfield,11,1,,
+496,Surfbort,11,1,,
+497,James TW,11,1,,
+498,Action Bronson,11,1,,
+499,Clinton Kane,11,1,,
+500,French Montana,11,1,,
+501,HM Surf,11,2,40.5,6.363961030678928
+502,Måneskin,11,1,,
+503,Alice Merton,11,1,,
+504,Buena Vista Social Club,11,1,,
+505,The Warning,11,1,,
+506,Lofi Fruits Music,11,9,0.19444444444444442,0.4409585518440984
+507,Haftbefehl,11,1,,
+508,Adel Tawil,11,1,,
+509,Champion Jack Dupree,11,1,,
+510,Hans Theessink,11,1,,
+511,Mert,11,1,,
+512,Lostboi Lino,11,1,,
+513,O.T. Genasis,11,1,,
+514,MOLA,11,1,,
+515,Booka Shade,11,1,,
+516,LGoony,11,1,,
+517,Miike Snow,11,1,,
+518,DAT ADAM,11,1,,
+519,The Lumineers,11,1,,
+520,Dionysus,10,1,,
+521,Mine,10,1,,
+522,Gronkh & Sarazar (Die Superhomies),10,1,,
+523,The Kid LAROI,10,1,,
+524,Alvaro Soler,10,1,,
+525,Ahzumjot,10,1,,
+526,Nura,10,1,,
+527,Berg,10,1,,
+528,E I S U,10,1,,
+529,Anti-Flag,10,1,,
+530,Omaure,10,1,,
+531,FloFilz,10,1,,
+532,Beast In Black,10,1,,
+533,Rockstah,10,1,,
+534,Animal Trainer,10,1,,
+535,smle,10,1,,
+536,Macky Gee,10,1,,
+537,Joyhauser,10,1,,
+538,Brothers Moving,10,1,,
+539,KSI,10,1,,
+540,moow,10,1,,
+541,Yungmon,10,1,,
+542,John Legend,10,1,,
+543,kramsen,10,1,,
+544,Scarlet Pleasure,10,1,,
+545,Sam Smith,10,1,,
+546,Haiyti,10,1,,
+547,Goody Grace,10,1,,
+548,Dandy Livingstone,10,1,,
+549,Yung Hurn,10,1,,
+550,Night Lovell,10,1,,
+551,Music Lab Collective,10,2,32.0,5.656854249492381
+552,Rotfront,10,1,,
+553,The Wellermen,9,1,,
+554,Neon Trees,9,1,,
+555,Marcus Miller,9,1,,
+556,James Blunt,8,1,,
+557,Allem Iversom,8,1,,
+558,Limes,8,2,8.0,2.8284271247461903
+559,The Neighbourhood,8,1,,
+560,UNLOGIX,8,1,,
+561,theAngelcy,8,1,,
+562,Family of the Year,7,1,,
+563,Flovry,7,2,4.5,2.1213203435596424
+564,Men At Work,7,1,,
+565,Squid Ethics,7,1,,
+566,Yasper,6,1,,
+567,The Longest Johns,6,1,,
+568,Kesha,6,1,,
+569,Axian,6,1,,
+570,Aktive,6,1,,
+571,In Love With a Ghost,6,1,,
+572,digitalluc,6,1,,
+573,Hans-Jurgen Hufeisen,6,1,,
+574,Arbour,5,1,,
+575,SwuM,5,2,0.5,0.7071067811865476
+576,Harris Cole,5,1,,
+577,Alec Troniq,5,1,,
+578,Psalm Trees,5,1,,
+579,Datsik,5,1,,
+580,Stereoact,5,1,,
+581,Maël & Jonas,5,1,,
+582,Nothing But Thieves,5,1,,
+583,Zedd,5,1,,
+584,imagiro,5,1,,
+585,LLUCID,4,1,,
+586,Brandon Beal,4,1,,
+587,SprayGod,4,1,,
+588,The Overtones,4,1,,
+589,Dennis Lloyd,4,1,,
+590,HeXer,4,1,,
+591,sophie meiers,4,1,,
+592,Estugarda,4,1,,
+593,drkmnd,4,1,,
+594,CYNE,4,1,,
+595,Aarigod,4,1,,
+596,Erick the Architect,3,1,,
+597,William Crighton,3,1,,
+598,Meister Eder,3,1,,
+599,Nohidea,3,1,,
+600,goosetaf,3,1,,
+601,Badflower,3,1,,
+602,MEG MYERS,3,1,,
+603,The xx,3,1,,
+604,Logan and Isabel,3,1,,
+605,Our Last Night,3,1,,
+606,Less Gravity,3,1,,
+607,H E R B,3,1,,
+608,Alex & Sierra,3,1,,
+609,Hustensaft Jüngling,3,2,0.5,0.7071067811865476
+610,Ola W Jansson,3,1,,
+611,Pierce Brothers,3,1,,
+612,Lily Allen,3,2,0.5,0.7071067811865476
+613,The Uptown Players,3,1,,
+614,Zombie Americana,3,1,,
+615,Conor Maynard,3,2,0.5,0.7071067811865476
+616,Äl Jawala,3,1,,
+617,Red Rat,3,1,,
+618,Pool,3,1,,
+619,Trevor Daniel,2,1,,
+620,Cavetown,2,1,,
+621,Sinceu,2,1,,
+622,Sarcastic Sounds,2,1,,
+623,RIOPY,2,1,,
+624,Miscél,2,2,0.0,0.0
+625,emawk,2,1,,
+626,Ramsey Lewis,2,1,,
+627,Hudson Harris & Haim,2,1,,
+628,Aylior,2,1,,
+629,soho,2,1,,
+630,Jonathan Ogden,2,1,,
+631,Adekunle Gold,2,1,,
+632,The Piano Guys,2,1,,
+633,Daniel Jang,2,2,0.0,0.0
+634,Mount Dreams,2,1,,
+635,LunchMoney Lewis,2,1,,
+636,Chet Baker,2,2,0.0,0.0
+637,Sean Koch,2,1,,
+638,$uicideboy$,2,1,,
+639,xander.,2,1,,
+640,Måns Zelmerlöw,2,2,0.0,0.0
+641,twocolors,2,1,,
+642,Jessie J,2,1,,
+643,Rihanna,2,1,,
+644,Aso,2,1,,
+645,Walking On Cars,2,1,,
+646,You Me At Six,2,1,,
+647,leaf beach,2,1,,
+648,The Delta Saints,2,1,,
+649,girlfriends,2,2,0.0,0.0
+650,Niko Schwind,2,1,,
+651,Mariah Carey,2,1,,
+652,Tom Gregory,2,1,,
+653,Zoe Wees,2,2,0.0,0.0
+654,Samiam,2,1,,
+655,ZHU,2,1,,
+656,MERO,2,1,,
+657,Lil Texas,2,1,,
+658,Good Charlotte,2,1,,
+659,Throttle,2,1,,
+660,Emil Brandqvist,2,1,,
+661,Paul Desmond,2,1,,
+662,Leavv,2,1,,
+663,Smooth Vanilla,2,1,,
+664,Tchavolo Schmitt,2,1,,
+665,Hevi,2,2,0.0,0.0
+666,Cory Wong,2,1,,
+667,Melodiesinfonie,2,1,,
+668,Jesper Munk,2,1,,
+669,The Field Tapes,2,1,,
+670,Misha,2,1,,
+671,Dirty Honey,2,1,,
+672,Blue Wednesday,2,1,,
+673,Buddy Johnson,1,1,,
+674,Megaloh,1,1,,
+675,instant era,1,1,,
+676,WALK THE MOON,1,1,,
+677,Danju,1,1,,
+678,Nightcore Reality,1,1,,
+679,Asmr,1,1,,
+680,H.1,1,1,,
+681,Eleni Drake,1,1,,
+682,Melodores,1,1,,
+683,Gaullin,1,1,,
+684,mt. fujitive,1,1,,
+685,NICK PROSPER,1,1,,
+686,BOYS LIKE GIRLS,1,1,,
+687,Jain,1,1,,
+688,Paper Idol,1,1,,
+689,Dysphoria,1,1,,
+690,Jaill,1,1,,
+691,LX,1,1,,
+692,Nando033,1,1,,
+693,Jomarijan,1,1,,
+694,Ed Star,1,1,,
+695,Sonn,1,1,,
+696,Yomoti,1,1,,
+697,Black Star,1,1,,
+698,Not a Rapper,1,1,,
+699,Two Sleepy,1,1,,
+700,Rook1e,1,1,,
+701,Catie Turner,1,1,,
+702,Scary Pockets,1,1,,
+703,Simber,1,1,,
+704,New Town Kings,1,1,,
+705,Tomppabeats,1,1,,
+706,Pentatonix,1,1,,
+707,Muse,1,1,,
+708,weird inside,1,1,,
+709,Rufi-O,1,1,,
+710,Mad Kelly,1,1,,
+711,Johny Grimes,1,1,,
+712,Remzcore,1,1,,
+713,Ckwnce,1,1,,
+714,Saturn Night,1,1,,
+715,The Macarons Project,1,1,,
+716,Heretic Klick,1,1,,
+717,Ryan Caraveo,1,1,,
+718,Pabzzz,1,1,,
+719,Sound Of Nature,1,1,,
+720,Toonorth,1,1,,
+721,WizTheMc,1,1,,
+722,Big Gigantic,1,1,,
+723,Alex Goot,1,1,,
+724,Martin Jondo,1,1,,
+725,Vorsa,1,1,,
+726,MC Bomber,1,1,,
+727,NEFFEX,1,1,,
+728,frad,1,1,,
+729,Flatbush Zombies,1,1,,
+730,Silent Child,1,1,,
+731,anaïs,1,1,,
+732,Dag Nasty,1,1,,
+733,Tracy Chapman,1,1,,
+734,sad app,1,1,,
+735,Smashymoo,1,1,,
+736,JONA XX,1,1,,
+737,Meredith Brooks,1,1,,
+738,Unseen Dimensions,1,1,,
+739,Alessia Cara,1,1,,
+740,Dotan,1,1,,
+741,POWERS,1,1,,
+742,Farin Urlaub,1,1,,
+743,Divided Minds,1,1,,
+744,MGMT,1,1,,
+745,The Bottom Line,1,1,,
+746,Boston Manor,1,1,,
+747,Max Jury,1,1,,
+748,Juse Ju,1,1,,
+749,Borgore,1,1,,
+750,Hollow Coves,1,1,,
+751,Common Kings,1,1,,
+752,Jimmy Eat World,1,1,,
+753,BAYNK,1,1,,
+754,Julie London,1,1,,
+755,Davide Ambrosia,1,1,,
+756,Tim Bendzko,1,1,,
+757,Klangkarussell,1,1,,
+758,nostalgic,1,1,,
+759,THNK PNK,1,1,,
+760,Ozzy Osbourne,1,1,,
+761,McCoy Tyner,1,1,,
+762,Billie Holiday,1,1,,
+763,Roger Pontare,1,1,,
+764,Carola Jasmins,1,1,,
+765,Sleepdealer,1,1,,
+766,Ella Henderson,1,1,,
+767,Anstandslos & Durchgeknallt,1,1,,
+768,Willi Herren,1,1,,
+769,Freddie Joachim,1,1,,
+770,LÉON,1,1,,
+771,Yours Truly,1,1,,
+772,Ronald Emery,1,1,,
+773,A Little Nothing,1,1,,
+774,Nick Phoenix,1,1,,
+775,GReeeN,1,1,,
+776,Orange Skyline,1,1,,
+777,MauColi,1,1,,
+778,Bryson Tiller,1,1,,
+779,Jules Ahoi,1,1,,
+780,Oxxxymiron,1,1,,
+781,Tune-Yards,1,1,,
+782,Tundra Beats,1,1,,
+783,Maribou State,1,1,,
+784,Bon Jovi,1,1,,
+785,TyLuv.,1,1,,
+786,Bowser,1,1,,
+787,Olaf Schubert,1,1,,
+788,Bodo Wartke,1,1,,
+789,Saint Motel,1,1,,
+790,Leony,1,1,,
+791,Angus Grove,1,1,,
+792,Cubicolor,1,1,,
+793,Paul Winter,1,1,,
+794,Rise Against,1,1,,
+795,Ruffiction,1,1,,
+796,SPEECHLESS,1,1,,
+797,Beegie Adair,1,1,,
+798,Sero El Mero,1,1,,
+799,Ry Starky,1,1,,
+800,Magnolia Park,1,1,,
+801,Soulone Beats,1,1,,
+802,WYS,1,1,,
+803,Laffey,1,1,,
+804,AK-Official,1,1,,
+805,noah...,1,1,,
+806,Spanische Gitarre,1,1,,
+807,C4C,1,1,,
+808,Duffy,1,1,,
+809,Stephen Kummer,1,1,,
+810,Whisper,1,1,,
+811,autumn keys,1,1,,
+812,Maël,1,1,,
+813,Mani Orrason,1,1,,
+814,Asaf Avidan & the Mojos,1,1,,
+815,Desirae Day,1,1,,
+816,Jilax,1,1,,
+817,KaspaHauser,1,1,,
+818,Sigma,1,1,,
+819,Pere Soto,1,1,,
+820,Apparat,1,1,,
+821,Gustav,1,1,,
