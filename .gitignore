@@ -1,5 +1,6 @@
-.ipynb_checkpoints
+.ipynb_checkpoints/
 keys.txt
 .env
 /.ipynb_checkpoints
 .cache
+.venv
