@@ -37,6 +37,13 @@ Through processing and utilising the spotify web api the additional data will be
 
 Metric, stats and statistics planned to do:
 
+- [ ] Correlation Matrix
+  - [ ] audio features
+  - [ ] listening activity
+    - [ ] time
+    - [ ] weekday
+    - [ ] month
+    - [ ] season
 - [ ] Fun stats
   - [ ] Tracks with most plays
   - [ ] Artists with most plays
@@ -54,4 +61,3 @@ Metric, stats and statistics planned to do:
   - [ ] Correlation Session <-> Genre
   - [ ] Correlation Session <-> Musik features
 - [ ] Correlation track presence and musik features (bpm)
-- [ ] 
