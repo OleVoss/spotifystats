@@ -46,4 +46,12 @@ Metric, stats and statistics planned to do:
   - [ ] Playtime
   - [ ] Musik features (bpm, energy, danceability) \
         It might be interesting to look for correlations with months/seasons.
-  - [ ] 
+- [ ] Cluster maps
+  - [ ] Genres
+  - [ ] Artists
+- [ ] Sessions
+  - [ ] How long
+  - [ ] Correlation Session <-> Genre
+  - [ ] Correlation Session <-> Musik features
+- [ ] Correlation track presence and musik features (bpm)
+- [ ] 
