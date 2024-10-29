@@ -56,6 +56,7 @@ Metric, stats and statistics planned to do:
 - [ ] Cluster maps
   - [ ] Genres
   - [ ] Artists
+- [ ] Skips. Which songs/artists have been skippen the most? After how many plays?
 - [ ] Sessions
   - [ ] How long
   - [ ] Correlation Session <-> Genre
